@@ -1,0 +1,8 @@
+# Program of accepting the data types and using the isinstance and type function
+
+n=10
+n2=90
+n3='Hello People'
+
+print(" The type of n=",n,"is",type(n))
+
